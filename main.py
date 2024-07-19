@@ -1,11 +1,13 @@
-from Ultralytics import YOLO
+from ultralytics import YOLO
+import cv2
 
 
-# load models
+# load models.\venv\Scripts\activate
 coco_model = YOLO('yolov8n.pt')
 license_plate_detector = YOLO('./model')
 
 # load video
+cap = cv2.VideoCapture('C:/Users/21626/Videos/sample.mp4')
 
 # read frames
 
