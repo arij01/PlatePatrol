@@ -1,3 +1,6 @@
 # Ignore the sort directory
 sort/
 model/
+out.mp4
+test.csv
+test_interpolated.csv
