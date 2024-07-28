@@ -1,5 +1,5 @@
 # Ignore the sort directory
+
 sort/
-model/
 test.csv
 test_interpolated.csv
