@@ -1,6 +1,5 @@
 # Ignore the sort directory
 test.csv
 test_interpolated.csv
-out.mp4
 sort/
 model/
