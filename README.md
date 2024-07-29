@@ -3,6 +3,8 @@
 https://github.com/user-attachments/assets/8551d49c-a361-4bf1-b01e-b2fe9fd7bf5e
 
 ## Description 
+This project develops a real-time vehicle detection and license plate recognition system using advanced deep learning techniques. By integrating the YOLO (You Only Look Once) model for object detection and the SORT (Simple Online and Realtime Tracking) algorithm for tracking, the system efficiently identifies and tracks vehicles in video footage. Additionally, it utilizes a specialized model for accurately detecting and reading license plate numbers.
+
 
 ## Data
 The video I used in this tutorial can be downloaded [here](https://www.pexels.com/video/traffic-flow-in-the-highway-2103099/).
