@@ -1,4 +1,4 @@
-# automatic-number-plate-recognition
+# PlatePatrol
 
 https://github.com/user-attachments/assets/8551d49c-a361-4bf1-b01e-b2fe9fd7bf5e
 
